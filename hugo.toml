@@ -1,0 +1,23 @@
+baseURL = 'http://localhost'
+# relativeURLs = 'True'
+languageCode = 'en-us'
+title = 'netCamel'
+theme = 'ficurinia'
+defaultContentLanguage = 'en'
+copyright = '🐫'
+
+paginate = 5
+summaryLength = 70
+
+[params]
+    author = 'Alex Morgan'
+    description = 'netCamel'
+    logo = '/logo.png'
+    favicon = '/favicon.png'
+
+[menu]
+    [[menu.icons]]
+        identifier = 'github'
+        name = 'Github'
+        url = 'https://github.com/net-camel'
+        weight = 10

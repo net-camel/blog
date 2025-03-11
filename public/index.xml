@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>netCamel</title>
+    <link>http://localhost/</link>
+    <description>Recent content on netCamel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>🐫</copyright>
+    <lastBuildDate>Mon, 10 Mar 2025 09:50:05 -0500</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost/logo.png</icon>
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost/posts/about-me/</link>
+      <pubDate>Mon, 10 Mar 2025 09:50:05 -0500</pubDate>
+      
+      <guid>http://localhost/posts/about-me/</guid>
+      <description><![CDATA[<p>I&rsquo;m Alex!<br>
+This is my blog.<br>
+A father of a daughter.<br>
+My current title is &ldquo;Network Engineer&rdquo;. I see networks as part of a larger infrastructure.<br>
+Configuring network boxes is boring, pulling metrics out of the log data and knowing exactly when there is an error present on the box is fun!<br>
+Cooking is also fun.<br>
+So are PC games, expect for most live service ones.<br>
+I have some houseplants too.<br>
+🐫</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
