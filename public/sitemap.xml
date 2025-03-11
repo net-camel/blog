@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/posts/about-me/</loc>
+    <loc>http://netcamel.com/posts/about-me/</loc>
     <lastmod>2025-03-10T09:50:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>http://netcamel.com/</loc>
     <lastmod>2025-03-10T09:50:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/</loc>
+    <loc>http://netcamel.com/posts/</loc>
     <lastmod>2025-03-10T09:50:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>http://netcamel.com/categories/</loc>
   </url><url>
-    <loc>http://localhost/manifest/index.json</loc>
+    <loc>http://netcamel.com/manifest/index.json</loc>
   </url><url>
-    <loc>http://localhost/search/</loc>
+    <loc>http://netcamel.com/search/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://netcamel.com/tags/</loc>
   </url>
 </urlset>
