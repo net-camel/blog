@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Categories on netCamel</title>
-    <link>http://netcamel.com/categories/</link>
+    <link>https://netcamel.com/categories/</link>
     <description>Recent content in Categories on netCamel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>🐫</copyright><atom:link href="http://netcamel.com/categories/index.xml" rel="self" type="application/rss+xml" /><icon>http://netcamel.com/logo.png</icon>
+    <copyright>🐫</copyright><atom:link href="https://netcamel.com/categories/index.xml" rel="self" type="application/rss+xml" /><icon>https://netcamel.com/logo.png</icon>
     
   </channel>
 </rss>

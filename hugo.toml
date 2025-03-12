@@ -1,4 +1,4 @@
-baseURL = 'http://netcamel.com'
+baseURL = 'https://netcamel.com'
 # relativeURLs = 'True'
 languageCode = 'en-us'
 title = 'netCamel'
